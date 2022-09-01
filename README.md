@@ -263,9 +263,94 @@ Para 4)
 
 f_c=1/2πRC=1/(2π(10kΩ)(0.001μF))=15.9kHz
 
-PARTE
-ALAN
-EJERCICIOS
+8. En cada uno de los casos siguientes, exprese la relación de voltaje en dB:
+
+(a) Vent 1 V, Vsal 1 V
+
+dB=20 log⁡(V_sal/V_ent )→20 log⁡(1V/1V)=0dB 
+
+ (b) Vent 5 V, Vsal 3 V 
+ 
+dB=20 log⁡(V_sal/V_ent )→20 log⁡(3V/5V)=-4.44dB 
+
+(c) Vent 10 V, Vsal 7.07 V
+
+dB=20 log⁡(V_sal/V_ent )→20 log⁡(7.07V/10V)=-3.01dB 
+
+(d) Vent 25 V, Vsal 5 V
+
+dB=20 log⁡(V_sal/V_ent )→20 log⁡(5V/25V)=-13.98dB 
+
+10. Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB en las siguientes frecuencias (fc =1 kHz): 
+
+(a) 10 kHz 
+
+dB=20 log⁡(V_sal/V_ent )→20 log⁡(10)=20dB
+
+(b) 100 kHz 
+
+dB=20 log⁡(V_sal/V_ent )→20 log⁡(100)=40dB
+
+(c) 1 MHz 
+
+B=20 log⁡(V_sal/V_ent )→20 log⁡(1000)=60dB
+
+12. La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas: 
+
+(a) 1 Hz →Rechaza
+
+(b) 20 Hz →Rechaza
+
+(c) 50 Hz →Permite
+
+(d) 60 Hz →Permite
+
+(e) 30 kHz→Permite
+
+14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent 10 V). 
+ 
+a)  
+
+f_c=1/2πRC→1/(2π(100Ω)(10uF))=159.15Hz
+
+V_sal=0.707V_ent→0.707(10V)=7.07V
+
+b) 
+
+f_c=1/2πRC→1/(2π(47Ω)(4.7uF))=720.48Hz
+
+V_sal=0.707V_ent→0.707(10V)=7.07V
+
+c) 
+f_c=1/2π(L/R) →1/2π(5mH/330Ω) =10.5kHz
+
+V_sal=0.707V_ent→0.707(10V)=7.07V
+
+d) 
+
+f_c=1/2π(L/R) →1/2π(80uH/10Ω) =20kHz
+
+V_sal=0.707V_ent→0.707(10V)=7.07V
+
+*16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.
+ 
+Posición 1 
+
+f_c=1/2πRC→1/(2π(1kΩ)(0.015uF))=10.6kHz
+
+Posición 2 
+
+f_c=1/2πRC→1/(2π(1320Ω)(0.006uF))=20kHz
+
+Posición 3 
+
+f_c=1/2πRC→1/(2π(860Ω)(0.015uF))=12.3kHz
+
+Posición 4 
+
+f_c=1/2πRC→1/(2π(1kΩ)(0.015uF))=10.6kHz
+
+
 
 
 18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Ω, determine el ancho de banda para cada filtro.
