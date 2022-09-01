@@ -1,6 +1,6 @@
 # UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"
 
-INFORME TAREA 8
+INFORME TAREA 9
 
 NOMBRE DEL ESTUDIANTE: CASA CAIZA HENRY MATEO
 
@@ -33,17 +33,21 @@ Mapas conceptuales tema XVII Y XVIII
 
 ![1](https://github.com/hmcasa1/Tarea-9/blob/06e7ada51044e8d7a5fec52eb43dd9db04590269/Imagenes/Mapa%204.png)
 
-![1](![1](https://github.com/hmcasa1/Tarea-9/blob/06e7ada51044e8d7a5fec52eb43dd9db04590269/Imagenes/Mapa%205.png)
+![1](https://github.com/hmcasa1/Tarea-9/blob/06e7ada51044e8d7a5fec52eb43dd9db04590269/Imagenes/Mapa%205.png)
 
 Ejercicios cap XVII y XVIII 
 
 2. Determine la impedancia en la figura 17-59 y exprésela en forma polar.
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%202.png)
  
 Z=√(R^2+〖(X_L-X_C)〗^2 )
 
 Z=√(〖(47Ω)〗^2+〖(80Ω-35Ω)〗^2 )=65.069
 
 4. Para el circuito de la figura 17-59, determine la reactancia neta que hará que la magnitud de la impedancia sea igual a 100 Æ.
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%204.png)
  
 Z=√(R^2+〖(X_L-X_C)〗^2 )
 
@@ -54,6 +58,8 @@ X^2=10000-2209
 X= √7791=88.266
 
 6. Trace el diagrama fasorial de voltaje para el circuito de la figura 17-59.
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%206.png)
 
 Z=√(R^2+〖(X_L-X_C)〗^2 )
 
@@ -75,9 +81,13 @@ Vc=I*Xc=0.0614*35=2.149V
  
 8. Para el circuito de la figura 17-59, ¿es la frecuencia resonante más alta o más baja que el valor indicado por los valores de reactancia?
 
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%208.png)
+
 	fr es menor que la frecuencia indicada (XC<XL)
   
 10. En la figura 17-61, determine XL, XC, Z e I a la frecuencia resonante.
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2010.png)
  
 fr=1/(2π√LC)=1/(2π√((1mH)(47pF) ))=734kHz
 
@@ -90,12 +100,16 @@ I=Vs/Z
 I=12/22=0.545 A
 
 12. Para el circuito RLC de la figura 17-62, determine la frecuencia resonante.
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2012.png)
  
 I=Vs/Z
 
 I=7.07/10=0.707 A
 
 14. En la figura 17-62, determine el ángulo de fase entre el voltaje aplicado y la corriente a las frecuencias críticas. ¿Cuál es el ángulo de fase en condición de resonancia?
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2014.png)
  
 fr=1/(2π√LC)=1/(2π√((8 μH)(0.015 μF) ))=459 kHz
 
@@ -104,10 +118,14 @@ X_L=2πfrL=2π(8 μH)(459 kHz)=23.07 Ω
 θ=〖tan〗^(-1) (X/R)=〖tan〗^(-1) ((23.07 Ω)/(10 Ω))=66.57 °
 
 16. Exprese en forma polar la impedancia del circuito de la figura 17-63.
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2016.png)
  
 I=Vs/Z=(5 V)/(100 Ω)=50 mA=50 °
 
 18. ¿A qué frecuencia el circuito de la figura 17-63 cambia su característica reactiva (de inductiva a capacitiva o viceversa)?
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2018.png)
  
 X_L=2πfrL=2π(12 kHz)(15 mH)=1.13 kΩ
 
@@ -116,6 +134,8 @@ X_C=1/2πfrC=1/(2π(12 kHz)(0.022 μF))=603 Ω
 Dado que XC < XL, el circuito en paralelo es en la mayoria capacitivo. La reactancia más pequeña en un circuito paralelo domina la respuesta del circuito porque tiene la mayor corriente.
 
 20. Determine la impedancia total del circuito de la figura 17-63 a 50 kHz.
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2020.png)
  
 I=Vs/Z=(5 V)/(100 Ω)=50 mA
 
@@ -124,7 +144,9 @@ I=Vs/Z=(5 V)/(100 Ω)=50 mA
 Zr es ínfimamente grande
 
 24. ¿Cuánta corriente se extrae de la fuente de la figura 17-64 en condición de resonancia? ¿Cuáles son las corrientes inductiva y capacitiva en la frecuencia resonante?
- 
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2024.png)
+
 fr=√(1-(R_W^2 C)/L)/(2π√LC)=√(1-((20 Ω)^2 (47 pF))/(50 mH))/(2π√((50 mH)(47 pF) ))=104 kHz
 
 X_L=2πfrL=2π(104 Hz)(50 mH)=32.6 kΩ
@@ -138,27 +160,34 @@ T_total=V_S/Z_r =(6.3 V)/(53.1 MΩ)=119 mA
 I_C=I_L=(6.3 V)/√(〖(20 Ω)〗^2+〖(32.6 Ω)〗^2 )=193 μA
 
 26. Encuentre la impedancia total para cada circuito de la figura 17-65
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2026.png)
  
 a)
+
 Q=X_L/R_W =Q=100Ω/220Ω=0.45
 
 Z_R=R_W (Q^2+1)=220Ω(〖0.45〗^2+1)=264.55 Ω
 
 b)
+
 Q=X_L/R_W =Q=8kΩ/12kΩ=0.67
 
 Z_R=R_W (Q^2+1)=12kΩ(〖0.67〗^2+1)=17.38 kΩ
 
 28. Determine el voltaje entre las terminales de cada elemento mostrado en la figura 17-66, y expréselo en forma polar.
  
-
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2028.png)
 
 30. ¿Cuál es la corriente a través de R2 en la figura 17-67?
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2030.png)
  
 I_R2=V_s/R_r =115V/100Ω=1.15A
 
 *32. Determine la resistencia y la reactancia totales en la figura 17-68
- 
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2032.png) 
 
 Xtotal=1/(1/5kΩ+1/10kΩ)=3.33kΩ
 
@@ -170,11 +199,9 @@ Rt=(3.16 kΩ)  cos⁡(71.6°)=997Ω
 
 Xtota=(3.16 kΩ)sen(71.6°)=3kΩ
 
-
-
-
-
 34. Determine si existe un valor de C que hará Vab = 0 V en la figura 17-69. Si no lo hay, explique la razón.
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2034.png)
  
 Si Vab=0V   y    Va=Vb
 
@@ -187,6 +214,8 @@ V_L1=(((226Ω))/√((180Ω)^2+(226Ω)^2 ))12V=9.38V
 No es posible que Vab sea 0 V porque la rama LC no tiene resistencia; por lo tanto, el voltaje de a a b solo puede tener un ángulo de fase de 0°, 90° o −90° (la rama será resonante, puramente inductiva, o puramente capacitiva dependiendo del valor de XC). Por lo tanto, no es posible que Va sea igual a Vb tanto en magnitud como en ángulo de fase, que son condiciones necesarias.
 
 * 36. ¿Cuántas frecuencias resonantes hay en el circuito de la figura 17-70 ¿Por qué?
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2036.png)
  
 fr(paralelo)=fr(serie)
 
@@ -202,6 +231,8 @@ c_3=1/(4π^2 (10MH〖z)〗^2 (10uH))=25pF
 
 c_4=1/(4π^2 (11MH〖z)〗^2 (10uH))=21pF
  
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2038.png)
+
 40. Si la frecuencia crítica baja es de 2400 Hz y la frecuencia crítica alta es de 2800 Hz, ¿cuál es el ancho de banda? ¿Cuál es la frecuencia resonante?
 
 AB=2800Hz-2400Hz=400Hz
@@ -227,6 +258,8 @@ L=1/(f_r^2 C(〖4π〗^2+0.025))→1/((8kHz)^2 (1.98uF)(〖4π〗^2+0.025))=199u
 (e) 5 kHz →Rechaza
 
 4. ¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a fc en cada caso cuando Vent 5 V. 
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%204%20cap.png)
  
 Para a)  
 
@@ -246,6 +279,7 @@ f_c=1/2πRC=1/(2π(10Ω)(80μF))=0.20kHz
 
 *6. Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmutados de la figura 18-40.
  
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%206%20cap.png) 
 
 Para 1)
 
@@ -307,7 +341,9 @@ B=20 log⁡(V_sal/V_ent )→20 log⁡(1000)=60dB
 
 (e) 30 kHz→Permite
 
-14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent 10 V). 
+14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent 10 V).
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2014%20cap.png) 
  
 a)  
 
@@ -333,6 +369,8 @@ f_c=1/2π(L/R) →1/2π(80uH/10Ω) =20kHz
 V_sal=0.707V_ent→0.707(10V)=7.07V
 
 *16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2016%20cap.png) 
  
 Posición 1 
 
@@ -350,11 +388,9 @@ Posición 4
 
 f_c=1/2πRC→1/(2π(1kΩ)(0.015uF))=10.6kHz
 
-
-
-
 18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Ω, determine el ancho de banda para cada filtro.
 
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2018%20cap.png) 
 
 a)
 
@@ -377,6 +413,8 @@ Q=301.5Ω/10Ω→Q=30.15
 AB=24kHz/30.15→AB=796Hz
 
 20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW.
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2020%20cap.png) 
  
 a)
 
@@ -387,6 +425,8 @@ b)
 f_0=1/(2π√LC)→f_0=1/(2π√((2.5μH)(25pF) ))↦f_0=20GHz
 
 *22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figura 18-45. ¿Se traslapan algunas de las respuestas? 
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2022%20cap.png) 
 
 Suponga que RW =0 Ω para cada bobina.
  
@@ -427,7 +467,9 @@ Posición 9
 f_0=1/(2π√LC)→f_0=1/(2π√((270μH)(0.001μF) ))→f_0=306293Hz
 
 24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.
- 
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2024%20cap.png) 
+
 a)
 
 f_0=1/(2π√LC)→f_0=1/(2π√((100μH)(0.0022μF) ))→f_0=339319Hz
@@ -438,7 +480,9 @@ f_0=1/(2π√LC)→f_0=1/(2π√((5mH)(0.047μF) ))→f_0=10382Hz
 
 
 26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent = 50 V?
- 
+
+![1](https://github.com/hmcasa1/Tarea-9/blob/088eb5636ec85e6ace9fac0661e4d8d957ece8a9/Imagenes/Ejer%2026%20cap.png) 
+
 a)
 
 V_sal=(R_w/(R+R_w )) V_ent→V_sal=(8Ω/(1kΩ+8Ω))→V_sal=396.8mV
