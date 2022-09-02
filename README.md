@@ -10,17 +10,18 @@ NRC:7322
 
 OBJETIVO GENERAL
 
- • 
+ • Comprender el funcionamiento y aplicación de los circuitos RLC y los filtros pasivos, por medio de la investigación, en fuentes confiables, y resolución de ejercicios de los temas antes previstos, para así lograr tener una visión clara de los principios de la electricidad y de las distintas formas en que se puede presentar un circuito eléctrico, así como las operaciones necesarias para calcular sus magnitudes y funcionamiento.
  
 OBJETIVO ESPECIFICO 
 
- •
+ •Determinar la impedancia de un circuito RLC en serie
  
- •
+ •Analizar circuitos RLC en paralelo
  
- •
+ •Analizar circuitos RLC en serie-paralelo
  
- •
+ •Determinar el ancho de banda de circuitos resonantes
+
 *MARCO TEORICO 
 
 Mapas conceptuales tema XVII Y XVIII
@@ -491,7 +492,14 @@ b)
 
 V_sal=(R_w/(R+R_w )) V_ent→V_sal=(8Ω/(2.2kΩ+8Ω))→V_sal=181mV
 
+CONCLUSIONES 
 
+•Las frecuencias críticas son las frecuencias ubicadas por encima y por debajo de la condición de resonancia donde la respuesta del circuito es un 70.7% de la respuesta máxima.
 
+•Cuatro categorías de filtros pasivos, de acuerdo con sus características de respuesta, son: pasabajas, pasaaltas, pasabanda y rechazabanda.
 
+BIBLIOGRAFIA 
 
+• Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Educación Pearson. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comentarios en commit 73edc1a
+
+• https://www.canva.com/design/DAFE9DiMjzM/HxTaNWr82Y4bj41Xipuz1w/edit
